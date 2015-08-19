@@ -1,0 +1,2 @@
+# pencilcode
+figura pentagono
